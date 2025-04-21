@@ -23,7 +23,7 @@ My name is **Dipak Budha Chhetri**, a passionate data science enthusiast with a 
 
 ---
 
-## 🚀 Goals
+## Goals
 
 - To build a strong ML portfolio with practical applications.
 - To explore different algorithms and modeling techniques.
