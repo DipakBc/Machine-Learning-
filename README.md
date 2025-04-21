@@ -6,13 +6,13 @@ Each project explores a real-world dataset, involves end-to-end preprocessing, m
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 My name is **Dipak Budha Chhetri**, a passionate data science enthusiast with a strong interest in building intelligent systems that solve real-world problems. I enjoy working with data, discovering patterns, and using algorithms to make predictions that matter.
 
 ---
 
-## 📁 Projects Included
+## Projects Included
 
 | Project Title                             | Description                                                   |
 |------------------------------------------|---------------------------------------------------------------|
